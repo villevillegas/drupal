@@ -786,11 +786,11 @@ $settings['entity_update_batch_size'] = 50;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'eif506g2_delta_proyecto2',
-  'username' => 'deltag2',
+  'database' => 'deltag2_proyecto',
+  'username' => 'deltag2_drupal',
   'password' => 'deltag2',
   'prefix' => '',
-  'host' => 'localhost',
+  'host' => 'johnny.heliohost.org',
   'port' => '3306',
   'namespace' => 'Drupal\\Core\\Database\\Driver\\mysql',
   'driver' => 'mysql',
