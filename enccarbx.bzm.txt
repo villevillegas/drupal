@@ -1,0 +1,10 @@
+﻿Adding a custom readme file to test local copy fork
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch delta
+# Your branch is up-to-date with 'origin/delta'.
+#
+# Changes to be committed:
+#	new file:   customREADME.txt
+#
+
